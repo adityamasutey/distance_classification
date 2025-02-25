@@ -4,4 +4,4 @@ venv/
 # Ignore dataset and logs
 *.csv
 *.log
-wandb/
+wandb?/
