@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "CPython 3.11.4",
+  "startedAt":  "2025-02-26T09:46:33.969974Z",
+  "program":  "e:\\mlpr lab\\distance_classification\\lab5-adityamasutey.ipynb",
+  "codePath":  "lab5-adityamasutey.ipynb",
+  "git":  {
+    "remote":  "https://github.com/adityamasutey/distance_classification.git",
+    "commit":  "dd8ba59c8225be2f552b53ffaa5a71dc4e4494e8"
+  },
+  "email":  "aditya.masutey.ug23@plaksha.edu.in",
+  "root":  "e:\\mlpr lab\\distance_classification",
+  "host":  "LAPTOP-F6SNUTLU",
+  "executable":  "c:\\Users\\Aditya\\anaconda3\\python.exe",
+  "codePathLocal":  "lab5-adityamasutey.ipynb",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "162528227328",
+      "used":  "70237290496"
+    }
+  },
+  "memory":  {
+    "total":  "7866085376"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  }
+}
